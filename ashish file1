@@ -1,0 +1,7 @@
+n1=int(input("Enter 1 no:"))
+n2=int(input("Enter 2 no:"))
+print("Sum=",(n1+n2))
+addition=n1+n2
+print("Difference=",(n1-n2))
+print("Product=",(n1*n2))
+print("Quotient=",(n1/n2))
